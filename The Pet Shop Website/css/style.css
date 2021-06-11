@@ -1,26 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 
-
-.div-padding{
-    width: 500px;
-    padding: 100px;
-    display: table;
-    margin: auto;
-}
-
-p::before{
-	content: "Insert this text in blue before paragraph"; 
-    color: blue;
-    font-size: 20px;
-}
-
-
-p:hover{
-    color: red;
-    cursor: pointer;
-}
-
 body{
     background-color: white;
     overflow-x: hidden; /*this takes away the scroll bar add this later in the script. */
@@ -296,8 +276,6 @@ input[type="submit"] {
     float: right;
 }
 
-/*
 input[type="submit"]:hover {
     background-color: #02181b;
 }
-*/
