@@ -116,31 +116,30 @@ img {
     margin-bottom: 50px;
     }
 
-
-div#cat.column {
+#cat.column {
     background-color: #d7eaf7;
     margin-left: 18px;
 }
 
-div#dog.column {
+#dog.column {
     background-color: #c3e0c5;
 }
 
-div#rabbit.column {
+#rabbit.column {
     background-color: #c3e0c5;
     margin-left: 18px;
 }
 
-div#guineapig.column {
+#guineapig.column {
     background-color: #d7eaf7;
 }
 
-div#fish.column {
+#fish.column {
     background-color: #d7eaf7;
     margin-left: 18px;
 }
 
-div#reptile.column {
+#reptile.column {
     background-color: #c3e0c5;
 }
 
